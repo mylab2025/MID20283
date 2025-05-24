@@ -2,16 +2,16 @@
   "inventory": [
     {
       "MaterialTitle": {
-        "Name": "Gokul",
-        "PN": "123",
-        "MF": "23efs"
+        "Name": "Toroidal Transformer (120VA; PRI:0-230V, SEC:24-0-24V (2*2.5A))",
+        "PN": "BH120-20980-2",
+        "MF": "SHANGHAL TENGSHENG ELECTROMECHANICAL MANUFACTURE Co.,Ltd"
       },
       "MID": "MID20283",
-      "MD": "dfsfrr ttbf",
-      "MT": "Electronic Material",
-      "MQNT": 1,
-      "MCost": 46.0,
-      "MQATG": "#CLASS_3",
+      "MD": "BH120-20980-2 is toroidal shape of transformer with Power:120VA & Primary: 0-230V (BROWN-BLUE), Secondary: 24V 0 24V @ 2*2.5A (RED-BLUE-RED) || Rated TA: 50 degC/B 50/60Hz. (KONEPART: 89794G06) || Location: TBA || Datasheet : TBU",
+      "MT": "Electrical Material",
+      "MQNT": 2,
+      "MCost": 2895.16,
+      "MQATG": "#CLASS_1",
       "ML": "",
       "MDS": "https://docs.google.com/viewerng/viewer?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylab2025%2FMID20283%2Fmain%2FBOM_Report8.pdf",
       "MAF1": "",
@@ -21,7 +21,8 @@
       "MAF5": "",
       "MR": "",
       "MaterialImages": [
-        "https://raw.githubusercontent.com/mylab2025/MID20283/main/BKS.png"
+        "https://raw.githubusercontent.com/mylab2025/MID20283/main/WhatsApp Image 2025-05-24 at 5.44.51 PM.jpeg",
+        "https://raw.githubusercontent.com/mylab2025/MID20283/main/WhatsApp Image 2025-05-24 at 5.44.50 PM.jpeg"
       ]
     }
   ]
