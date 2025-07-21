@@ -2,12 +2,12 @@
   "inventory": [
     {
       "MaterialTitle": {
-        "Name": "Toroidal Transformer (120VA; PRI:0-230V, SEC:24-0-24V (2*2.5A))",
+        "Name": "Toroidal Transformer (120VA)",
         "PN": "BH120-20980-2",
         "MF": "SHANGHAL TENGSHENG ELECTROMECHANICAL MANUFACTURE Co.,Ltd"
       },
       "MID": "MID20283",
-      "MD": "BH120-20980-2 is toroidal shape of transformer with Power:120VA & Primary: 0-230V (BROWN-BLUE), Secondary: 24V 0 24V @ 2*2.5A (RED-BLUE-RED) || Rated TA: 50 degC/B 50/60Hz. (KONEPART: 89794G06) || Location: TBA || Datasheet : TBU",
+      "MD": "BH120-20980-2 is toroidal shape of transformer with Power:120VA & Primary: 0-230V (BROWN-BLUE), Secondary: 24V 0 24V @ 2*2.5A (RED-BLUE-RED) || Toroidal Transformer (120VA; PRI:0-230V, SEC:24-0-24V (2*2.5A)) || Rated TA: 50 degC/B 50/60Hz. (KONEPART: 89794G06) || Location: TBA || Datasheet : TBU",
       "MT": "Electrical Material",
       "MQNT": 2,
       "MCost": 2895.16,
